@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "a59d00434973d192459c6dcbdb26506e",
+    "pageAccessToken": "EAAYGgG1ZATvwBADjuDMQhNLZAD1H5um3p8mUyXequrNDSNax0dBqLLlj5SmN4LuXlMwKZBhcq6GZBqTqJrSRhnKkZCanNufEZAD7akDXU4TrvDdzKOCzeH36KZABoQnafpffWwwOjR5acu9IlUu5UVUv4FX8J4VZBNswokh4r7IcyQZDZD",
+    "validationToken": "123456",
+    "serverURL": "https://afternoon-ridge-90621.herokuapp.com/"
 }
